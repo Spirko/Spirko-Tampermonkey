@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Blackboard Gradebook Scroller
 // @namespace    http://luspirko.com/
-// @version      0.1
+// @version      0.2
 // @description  Improved scrollwheel handling for Blackboard Gradebook.
 // @author       Jeff Spirko
 // @match        https://*/webapps/gradebook/do/instructor/enterGradeCenter*
+// @homepage     https://github.com/Spirko/Spirko-Tampermonkey
 // @grant        none
 // @run-at       context-menu
 // ==/UserScript==
