@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Blackboard Gradebook Scroller
+// @name         Banner Schedule Improvements
 // @namespace    http://luspirko.com/
-// @version      0.3
+// @version      0.1
 // @description  Visual and Functional tweaks to TAMUCC public schedule.
 // @author       Jeff Spirko
 // @match        https://banner.tamucc.edu/schedule/BPROD.php
