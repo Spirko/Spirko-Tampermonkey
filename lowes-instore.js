@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lowes in-store checkbox
 // @namespace    http://luspirko.com/
-// @version      0.1
+// @version      0.2
 // @description  Look for and select the in-store checkbox on Lowes.com.
 // @author       You
 // @match        https://www.lowes.com/*
