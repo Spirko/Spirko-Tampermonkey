@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://www.lowes.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lowes.com
+// @updateURL    https://raw.githubusercontent.com/Spirko/Spirko-Tampermonkey/main/lowes-instore.js
 // @grant        none
 // ==/UserScript==
 
